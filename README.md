@@ -1,6 +1,8 @@
-# Advent of Code 2024
+# Advent of Code
 
-My solutions for advent of code 2024.
+My solutions for advent of code.
+
+- [2024](2024)
+- [2025](2025)
 
 Ignore the poor time complexities.
-
